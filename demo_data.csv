@@ -1,0 +1,134 @@
+Transaction_ID,Date,Customer_Name,Age,Gender,City,Product_Category,Product_Name,Quantity,Unit_Price,Discount,Payment_Method,Rating
+1001,2024-06-17,Tarek Farouk,51.0,Male,Alexandria,Books & Stationery,Data Science Book,4,480.06,0.05,Credit Card,2.0
+1002,2024-04-16,Karim Zaki,49.0,Male,Luxor,Clothing,Jeans,4,664.29,0.15,Debit Card,1.0
+1003,2024-09-30,Mariam Farouk,46.0,Female,Cairo,Home Appliances,Air Fryer,4,2671.02,0.05,Credit Card,3.0
+1004,2024-07-04,Khaled Abdelrahman,21.0,Male,Mansoura,Furniture,Bookshelf,2,1302.73,0.15,InstaPay,4.0
+1005,2024-03-01,Nour Sayed,19.0,Female,Cairo,Electronics,Laptop,5,12651.35,0.15,InstaPay,4.0
+1006,2024-07-11,Omar Sayed,54.0,Male,Mansoura,Furniture,Office Chair,3,1985.31,0.1,InstaPay,3.0
+1007,2024-02-27,Sara Ibrahim,39.0,Female,Cairo,Clothing,Jeans,2,624.0,0.15,Mobile Wallet,3.0
+1008,2024-08-29,  Ahmed Mahmoud  ,58.0,Male,Mansoura,Books & Stationery,Notebook Set,2,125.84,0.1,InstaPay,3.0
+1009,2024-04-20,Sara Ibrahim,42.0,Female,Mansoura,Home Appliances,Blender,5,987.24,0.0,Credit Card,1.0
+1010,2024-06-11,Sara Ibrahim,42.0,Female,Aswan,Books & Stationery,Data Science Book,5,423.18,0.2,Mobile Wallet,2.0
+1011,2024-08-12,Mona Khalil,21.0,Female,Alexandria,Electronics,Tablet,6,4531.17,0.15,Mobile Wallet,2.0
+1012,2024-09-06,Karim Zaki,22.0,Male,Cairo,Home Appliances,Air Fryer,5,2977.62,0.05,Credit Card,
+1013,2024-08-28,Yasmin Hassan,58.0,Female,Luxor,Home Appliances,Coffee Maker,1,1655.4,0.05,Debit Card,1.0
+1014,2024-08-17,Ali Hassan,25.0,Male,Alexandria,Furniture,Desk,5,3032.07,0.05,Cash,5.0
+1015,2024-01-21,Mohamed Ali,40.0,Male,Aswan,Furniture,Lamp,1,479.35,0.0,InstaPay,5.0
+1016,2024-05-27,Khaled Abdelrahman,22.0,Male,Cairo,Clothing,Hoodie,1,539.34,0.1,Debit Card,4.0
+1017,2024-03-25,Ali Hassan,43.0,Male,Alexandria,Home Appliances,Microwave,2,3237.01,0.2,Debit Card,3.0
+1018,2024-05-10,Youssef Mostafa,,Male,Giza,Books & Stationery,Pen Set,4,78.66,0.05,InstaPay,4.0
+1019,2024-01-23,Sara Ibrahim,30.0,Female,Tanta,Electronics,Headphones,1,847.61,0.15,Cash,
+1020,2024-05-25,Karim Zaki,30.0,Male,Mansoura,Home Appliances,Coffee Maker,6,1615.4,0.05,Cash,5.0
+1021,2024-09-07,Mariam Farouk,52.0,Female,Cairo,Electronics,Tablet,6,3936.14,0.0,Mobile Wallet,2.0
+1022,2024-10-04,Hoda Mahmoud,47.0,Female,Tanta,Electronics,Smartwatch,4,1497.93,0.0,Debit Card,3.0
+1023,2024-07-10,Nour Sayed,33.0,Female,Luxor,Books & Stationery,Planner,2,166.14,0.0,InstaPay,2.0
+1024,2024-04-08,Nour Sayed,37.0,Female,Aswan,Books & Stationery,Data Science Book,6,453.77,0.0,InstaPay,4.0
+1025,2024-01-31,  Amr Ibrahim  ,38.0,Male,Alexandria,Furniture,Desk,4,3025.18,0.15,Credit Card,2.0
+1026,2024-04-11,Ahmed Mahmoud,,Male,Giza,Furniture,Desk,4,3453.08,0.05,InstaPay,4.0
+1027,2024-07-12,Mona Khalil,37.0,Female,Aswan,Home Appliances,Microwave,2,3487.26,0.0,Debit Card,2.0
+1028,2024-01-06,Mona Khalil,32.0,Female,Alexandria,Electronics,Laptop,6,12329.84,0.15,InstaPay,5.0
+1029,2024-01-01,Sara Ibrahim,58.0,Female,Cairo,Furniture,Desk,5,3347.86,0.1,Credit Card,5.0
+1030,2024-06-07,Tarek Farouk,42.0,Male,Alexandria,Electronics,Smartwatch,6,1591.0,0.05,Mobile Wallet,
+1031,2024-06-26,Layla Nasser,,Female,Tanta,Clothing,Sneakers,1,879.99,0.1,Credit Card,
+1032,2024-09-20,Salma Zaki,32.0,Female,Alexandria,Books & Stationery,Data Science Book,2,479.15,0.2,InstaPay,2.0
+1033,2024-03-15,  Yasmin Hassan  ,45.0,Female,Tanta,Clothing,Hoodie,5,559.83,0.1,InstaPay,2.0
+1034,2024-02-11,  Sara Ibrahim  ,31.0,Female,Alexandria,Clothing,Jeans,6,605.74,0.1,Mobile Wallet,1.0
+1035,2024-07-24,Youssef Mostafa,37.0,Male,Tanta,Books & Stationery,Planner,3,149.31,0.0,Debit Card,3.0
+1036,2024-09-07,Fatima Mostafa,54.0,Female,Mansoura,Electronics,Smartwatch,1,1522.88,0.05,Credit Card,2.0
+1037,2024-02-14,Mona Khalil,48.0,Female,Cairo,Furniture,Bookshelf,6,1363.25,0.05,InstaPay,3.0
+1038,2024-01-23,Omar Sayed,60.0,Male,Cairo,Home Appliances,Blender,4,975.81,0.2,Cash,4.0
+1039,2024-01-15,Hassan Mansour,52.0,Male,Aswan,Clothing,Hoodie,1,613.63,0.2,InstaPay,2.0
+1040,2024-01-29,Rania Ali,26.0,Female,Alexandria,Electronics,Smartwatch,2,1518.86,0.05,InstaPay,2.0
+1041,2024-02-27,Mona Khalil,26.0,Female,Cairo,Furniture,Desk,5,3197.11,0.15,Mobile Wallet,2.0
+1042,2024-03-02,Mariam Farouk,47.0,Female,Luxor,Furniture,Bookshelf,1,1422.52,0.0,Credit Card,5.0
+1043,2024-02-27,Mariam Farouk,22.0,Female,Tanta,Furniture,Office Chair,6,1848.98,0.1,Mobile Wallet,3.0
+1044,2024-01-19,Yasmin Hassan,39.0,Female,Aswan,Furniture,Desk,4,3264.62,0.1,Cash,1.0
+1045,2024-05-09,Karim Zaki,53.0,Male,Giza,Electronics,Smartwatch,3,1720.43,0.1,Debit Card,5.0
+1046,2024-05-08,Sara Ibrahim,33.0,Female,Cairo,Home Appliances,Air Fryer,6,2750.5,0.1,InstaPay,
+1047,2024-10-02,Mona Khalil,35.0,Female,Luxor,Furniture,Lamp,3,414.64,0.05,InstaPay,3.0
+1048,2024-05-06,  Tarek Farouk  ,27.0,Male,Aswan,Books & Stationery,Notebook Set,4,113.89,0.0,Mobile Wallet,3.0
+1049,2024-10-23,Fatima Mostafa,59.0,Female,Mansoura,Furniture,Desk,3,3433.63,0.2,InstaPay,5.0
+1050,2024-05-20,Nour Sayed,26.0,Female,Alexandria,Clothing,Sneakers,1,951.29,0.0,Mobile Wallet,3.0
+1051,2024-10-08,Nour Sayed,56.0,Female,Luxor,Electronics,Headphones,5,802.55,0.2,Debit Card,3.0
+1052,2024-05-17,  Tarek Farouk  ,42.0,Male,Giza,Books & Stationery,Data Science Book,4,468.01,0.1,Mobile Wallet,4.0
+1053,2024-09-10,Tarek Farouk,28.0,Male,Mansoura,Clothing,Jacket,5,1230.6,0.15,InstaPay,5.0
+1054,2024-01-04,Fatima Mostafa,23.0,Female,Cairo,Furniture,Lamp,2,429.97,0.0,Cash,
+1055,2024-09-09,Hoda Mahmoud,47.0,Female,Cairo,Clothing,T-Shirt,5,263.71,0.0,Credit Card,4.0
+1056,2024-06-06,Nour Sayed,,Female,Alexandria,Books & Stationery,Data Science Book,2,422.31,0.2,Cash,3.0
+1057,2024-06-01,Mona Khalil,58.0,Female,Mansoura,Books & Stationery,Data Science Book,3,448.47,0.1,Cash,3.0
+1058,2024-02-06,Mariam Farouk,51.0,Female,Aswan,Furniture,Lamp,1,427.9,0.15,Credit Card,4.0
+1059,2024-04-18,Salma Zaki,20.0,Female,Giza,Furniture,Office Chair,3,1882.58,0.05,Debit Card,5.0
+1060,2024-03-23,Tarek Farouk,37.0,Male,Aswan,Clothing,Sneakers,2,983.93,0.2,Credit Card,1.0
+1061,2024-07-30,Layla Nasser,28.0,Female,Giza,Books & Stationery,Data Science Book,6,429.82,0.05,Credit Card,1.0
+1062,2024-02-20,Layla Nasser,52.0,Female,Aswan,Books & Stationery,Planner,4,158.74,0.15,Cash,3.0
+1063,2024-02-17,Omar Sayed,43.0,Male,Giza,Books & Stationery,Notebook Set,1,123.68,0.0,Cash,4.0
+1064,2024-06-20,  Youssef Mostafa  ,26.0,Male,Giza,Furniture,Lamp,1,457.78,0.0,Mobile Wallet,2.0
+1065,2024-01-06,Youssef Mostafa,,Male,Luxor,Books & Stationery,Notebook Set,2,120.24,0.15,Cash,3.0
+1066,2024-04-10,Amr Ibrahim,44.0,Male,Mansoura,Electronics,Headphones,2,817.52,0.05,Debit Card,
+1067,2024-05-15,  Rania Ali  ,33.0,Female,Tanta,Home Appliances,Blender,3,945.68,0.15,Debit Card,5.0
+1068,2024-01-02,Layla Nasser,22.0,Female,Mansoura,Electronics,Smartwatch,2,1674.17,0.05,Mobile Wallet,2.0
+1069,2024-08-04,Mona Khalil,39.0,Female,Giza,Books & Stationery,Notebook Set,6,117.14,0.2,Cash,1.0
+1070,2024-06-01,Mariam Farouk,27.0,Female,Cairo,Clothing,Sneakers,3,956.43,0.2,Credit Card,1.0
+1071,2024-09-25,  Tarek Farouk  ,,Male,Giza,Furniture,Bookshelf,2,1460.7,0.05,Credit Card,4.0
+1072,2024-09-22,Karim Zaki,21.0,Male,Giza,Clothing,Jeans,2,610.64,0.05,Mobile Wallet,1.0
+1073,2024-09-14,Omar Sayed,40.0,Male,Mansoura,Electronics,Smartwatch,4,1686.59,0.1,Mobile Wallet,4.0
+1074,2024-09-28,  Ali Hassan  ,,Male,Cairo,Furniture,Lamp,3,472.49,0.15,Debit Card,3.0
+1075,2024-01-20,Hoda Mahmoud,34.0,Female,Aswan,Clothing,Jeans,4,669.99,0.15,Cash,3.0
+1076,2024-07-25,Fatima Mostafa,46.0,Female,Alexandria,Electronics,Tablet,6,4442.61,0.2,Credit Card,2.0
+1077,2024-06-20,Youssef Mostafa,59.0,Male,Tanta,Books & Stationery,Planner,5,165.62,0.0,,5.0
+1078,2024-07-22,  Layla Nasser  ,23.0,Female,Mansoura,Clothing,Jacket,2,1349.65,0.0,,2.0
+1079,2024-06-23,Tarek Farouk,56.0,Male,Mansoura,Clothing,T-Shirt,5,294.83,0.15,,1.0
+1080,2024-08-31,Fatima Mostafa,54.0,Female,Alexandria,Furniture,Lamp,3,453.53,0.1,InstaPay,
+1081,2024-02-20,Ali Hassan,,Male,Luxor,Books & Stationery,Pen Set,3,80.16,0.15,Debit Card,4.0
+1082,2024-03-20,Khaled Abdelrahman,43.0,Male,Luxor,Electronics,Headphones,1,796.43,0.2,InstaPay,1.0
+1083,2024-05-17,Sara Ibrahim,27.0,Female,Alexandria,Clothing,Sneakers,2,1003.9,0.15,InstaPay,2.0
+1084,2024-07-04,  Hassan Mansour  ,21.0,Male,Aswan,Clothing,Jeans,5,626.07,0.05,InstaPay,2.0
+1085,2024-06-04,Hassan Mansour,43.0,Male,Giza,Electronics,Smartwatch,2,1644.66,0.0,Cash,3.0
+1086,2024-02-28,Salma Zaki,41.0,Female,Cairo,Home Appliances,Microwave,6,3603.47,0.15,Mobile Wallet,4.0
+1087,2024-07-22,Mona Khalil,32.0,Female,Alexandria,Electronics,Laptop,3,12262.68,0.0,Debit Card,2.0
+1088,2024-06-16,Youssef Mostafa,24.0,Male,Tanta,Home Appliances,Coffee Maker,4,1603.33,0.2,Mobile Wallet,3.0
+1089,2024-10-20,Tarek Farouk,51.0,Male,Alexandria,Clothing,Hoodie,5,559.15,0.2,Credit Card,1.0
+1090,2024-05-31,Youssef Mostafa,58.0,Male,Tanta,Electronics,Smartwatch,5,1605.64,0.2,Credit Card,2.0
+1091,2024-09-11,Fatima Mostafa,19.0,Female,Tanta,Clothing,Jacket,5,1219.94,0.2,,5.0
+1092,2024-03-02,Sara Ibrahim,31.0,Female,Aswan,Clothing,Sneakers,3,978.22,0.1,Cash,2.0
+1093,2024-07-19,Karim Zaki,37.0,Male,Aswan,Electronics,Headphones,5,874.41,0.0,InstaPay,2.0
+1094,2024-05-18,Khaled Abdelrahman,,Male,Mansoura,Furniture,Lamp,4,449.36,0.05,Debit Card,4.0
+1095,2024-03-31,Yasmin Hassan,20.0,Female,Tanta,Clothing,Sneakers,2,942.0,0.05,Cash,1.0
+1096,2024-05-02,Mohamed Ali,54.0,Male,Mansoura,Furniture,Office Chair,4,1780.01,0.1,Debit Card,3.0
+1097,2024-09-29,Hassan Mansour,46.0,Male,Mansoura,Clothing,T-Shirt,5,260.05,0.15,Mobile Wallet,1.0
+1098,2024-10-24,Nour Sayed,34.0,Female,Aswan,Clothing,T-Shirt,2,279.25,0.0,Mobile Wallet,2.0
+1099,2024-02-22,Salma Zaki,33.0,Female,Mansoura,Furniture,Lamp,6,415.15,0.1,Debit Card,4.0
+1100,2024-03-16,  Nour Sayed  ,24.0,Female,Mansoura,Clothing,Jeans,2,619.09,0.0,Cash,4.0
+1101,2024-07-11,  Mariam Farouk  ,41.0,Female,Cairo,Books & Stationery,Planner,6,159.56,0.1,InstaPay,1.0
+1102,2024-05-01,  Ahmed Mahmoud  ,53.0,Male,Cairo,Home Appliances,Air Fryer,3,2722.09,0.15,Cash,4.0
+1103,2024-09-04,Hoda Mahmoud,45.0,Female,Giza,Books & Stationery,Data Science Book,4,458.5,0.2,Mobile Wallet,4.0
+1104,2024-01-02,Ahmed Mahmoud,33.0,Male,Aswan,Home Appliances,Microwave,1,3352.11,0.0,Debit Card,3.0
+1105,2024-10-05,  Mohamed Ali  ,46.0,Male,Tanta,Books & Stationery,Planner,4,165.97,0.0,Debit Card,2.0
+1106,2024-08-04,Hassan Mansour,59.0,Male,Tanta,Clothing,Jacket,2,1274.06,0.15,Debit Card,5.0
+1107,2024-10-20,Salma Zaki,42.0,Female,Aswan,Furniture,Office Chair,1,1782.36,0.1,Cash,3.0
+1108,2024-02-16,  Khaled Abdelrahman  ,60.0,Male,Aswan,Clothing,T-Shirt,4,274.73,0.05,Credit Card,3.0
+1109,2024-02-12,  Amr Ibrahim  ,31.0,Male,Alexandria,Clothing,Hoodie,1,594.28,0.05,Credit Card,1.0
+1110,2024-03-07,Youssef Mostafa,54.0,Male,Alexandria,Home Appliances,Microwave,4,3575.06,0.1,Debit Card,
+1111,2024-03-19,Ali Hassan,30.0,Male,Luxor,Electronics,Laptop,4,13284.57,0.1,Cash,3.0
+1112,2024-09-10,Youssef Mostafa,32.0,Male,Luxor,Electronics,Tablet,6,4484.2,0.05,Debit Card,2.0
+1113,2024-06-09,  Youssef Mostafa  ,60.0,Male,Luxor,Electronics,Headphones,4,871.98,0.2,Credit Card,1.0
+1114,2024-07-31,Salma Zaki,21.0,Female,Aswan,Electronics,Smartwatch,3,1634.56,0.1,Credit Card,1.0
+1115,2024-04-09,Layla Nasser,,Female,Alexandria,Furniture,Bookshelf,2,1336.95,0.15,Mobile Wallet,
+1116,2024-05-28,  Hoda Mahmoud  ,36.0,Female,Luxor,Home Appliances,Coffee Maker,3,1696.61,0.15,,1.0
+1117,2024-07-18,Karim Zaki,40.0,Male,Giza,Books & Stationery,Notebook Set,4,115.86,0.15,InstaPay,2.0
+1118,2024-03-10,Amr Ibrahim,39.0,Male,Luxor,Electronics,Headphones,3,864.08,0.1,Mobile Wallet,3.0
+1119,2024-01-06,Mariam Farouk,49.0,Female,Mansoura,Clothing,Hoodie,4,537.54,0.2,Cash,3.0
+1120,2024-07-23,Sara Ibrahim,57.0,Female,Alexandria,Electronics,Smartphone,6,7677.2,0.15,InstaPay,5.0
+1121,2024-05-19,Salma Zaki,20.0,Female,Luxor,Furniture,Lamp,6,416.6,0.15,Cash,
+1122,2024-03-31,Youssef Mostafa,59.0,Male,Tanta,Home Appliances,Air Fryer,3,2977.74,0.2,Cash,1.0
+1123,2024-10-12,Layla Nasser,55.0,Female,Alexandria,Books & Stationery,Planner,2,170.11,0.15,InstaPay,3.0
+1124,2024-08-20,Rania Ali,23.0,Female,Cairo,Electronics,Smartwatch,4,1503.83,0.2,Mobile Wallet,4.0
+1125,2024-01-26,Youssef Mostafa,33.0,Male,Cairo,Electronics,Smartwatch,5,1600.7,0.15,Cash,2.0
+1126,2024-03-16,Rania Ali,49.0,Female,Mansoura,Clothing,Jacket,4,1327.99,0.15,Credit Card,5.0
+1127,2024-04-09,Hoda Mahmoud,29.0,Female,Giza,Furniture,Bookshelf,5,1351.13,0.05,Credit Card,2.0
+1128,2024-04-10,Khaled Abdelrahman,46.0,Male,Luxor,Electronics,Tablet,1,4515.09,0.1,Cash,1.0
+1129,2024-06-08,  Sara Ibrahim  ,24.0,Female,Giza,Electronics,Tablet,3,4385.58,0.1,Mobile Wallet,4.0
+1130,2024-06-27,Mona Khalil,30.0,Female,Aswan,Books & Stationery,Notebook Set,4,114.48,0.15,Debit Card,5.0
+1008,2024-08-29,  Ahmed Mahmoud  ,58.0,Male,Mansoura,Books & Stationery,Notebook Set,2,125.84,0.1,InstaPay,3.0
+1026,2024-04-11,Ahmed Mahmoud,,Male,Giza,Furniture,Desk,4,3453.08,0.05,InstaPay,4.0
+1061,2024-07-30,Layla Nasser,28.0,Female,Giza,Books & Stationery,Data Science Book,6,429.82,0.05,Credit Card,1.0
